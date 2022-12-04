@@ -1,7 +1,11 @@
-# raycast-extension
+# Raycast Extension
 
--   https://octokit.github.io/rest.js/v19
 -   https://developers.raycast.com
+-   https://octokit.github.io/rest.js/v19
+
+### Commands & Preferences
+
+-   TODO
 
 ### TODO
 
