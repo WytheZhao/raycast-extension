@@ -1,5 +1,7 @@
 # Raycast Extension
 
+Aha! My extension...
+
 ## Usage
 
 1. Download this repository

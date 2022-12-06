@@ -48,7 +48,7 @@
             "name": "tencentRegion",
             "title": "Tencent Region",
             "description": "Default: ap-shanghai",
-            "type": "password",
+            "type": "textfield",
             "required": true
         },
         {
