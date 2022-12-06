@@ -20,6 +20,20 @@
             "subtitle": "List your GitHub starred repositories.",
             "description": "List your GitHub starred repositories.",
             "mode": "view"
+        },
+        {
+            "name": "github-followed",
+            "title": "GitHub - Followed",
+            "subtitle": "List your GitHub followed.",
+            "description": "List your GitHub followed.",
+            "mode": "view"
+        },
+        {
+            "name": "test",
+            "title": "Test",
+            "subtitle": "Dev test.",
+            "description": "Test command.",
+            "mode": "view"
         }
     ],
     "preferences": [
@@ -34,7 +48,9 @@
     "dependencies": {
         "@octokit/rest": "^19.0.5",
         "@raycast/api": "^1.44.0",
-        "@raycast/utils": "^1.4.11"
+        "@raycast/utils": "^1.4.11",
+        "https-proxy-agent": "^5.0.1",
+        "node-fetch": "^3.3.0"
     },
     "devDependencies": {
         "@types/node": "18.8.3",
