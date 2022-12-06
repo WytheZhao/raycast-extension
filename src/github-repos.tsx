@@ -27,7 +27,7 @@ export default function Command() {
                         accessories={[
                             {
                                 icon: Icon.Star,
-                                text: `${repo.stargazers_count}`,
+                                text: repo.stargazers_count.toString(),
                             },
                         ]}
                     />

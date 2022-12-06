@@ -43,6 +43,27 @@
             "description": "github.com > Settings > Developer settings > Personal access tokens",
             "type": "password",
             "required": true
+        },
+        {
+            "name": "tencentRegion",
+            "title": "Tencent Region",
+            "description": "Default: ap-shanghai",
+            "type": "password",
+            "required": true
+        },
+        {
+            "name": "tencentSecretID",
+            "title": "Tencent SecretID",
+            "description": "https://console.cloud.tencent.com/capi",
+            "type": "password",
+            "required": true
+        },
+        {
+            "name": "tencentSecretKey",
+            "title": "Tencent SecretKey",
+            "description": "https://console.cloud.tencent.com/capi",
+            "type": "password",
+            "required": true
         }
     ],
     "dependencies": {
@@ -50,7 +71,8 @@
         "@raycast/api": "^1.44.0",
         "@raycast/utils": "^1.4.11",
         "https-proxy-agent": "^5.0.1",
-        "node-fetch": "^3.3.0"
+        "node-fetch": "^3.3.0",
+        "tencentcloud-sdk-nodejs": "^4.0.496"
     },
     "devDependencies": {
         "@types/node": "18.8.3",
