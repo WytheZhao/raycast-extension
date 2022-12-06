@@ -29,10 +29,10 @@
             "mode": "view"
         },
         {
-            "name": "test",
-            "title": "Test",
-            "subtitle": "Dev test.",
-            "description": "Test command.",
+            "name": "dnspod",
+            "title": "DNSPod",
+            "subtitle": "Manage your DNSPod domains.",
+            "description": "Manage your DNSPod domains.",
             "mode": "view"
         }
     ],

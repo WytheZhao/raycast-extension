@@ -11,7 +11,7 @@
 -   GitHub - Repositories: List your GitHub repositories.
 -   GitHub - Starred: List your GitHub starred repositories.
 -   GitHub - Followed: List your GitHub followed.
--   Test: DNSPod Test.
+-   DNSPod: Manage your DNSPod domains.
 
 ## Dev docs record.
 
