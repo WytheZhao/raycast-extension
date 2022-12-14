@@ -15,7 +15,7 @@ Aha! My extension...
 -   GitHub - Followed: List your GitHub followed.
 -   DNSPod: Manage your DNSPod domains.
 
-## Dev docs record.
+## Dev docs record
 
 -   https://developers.raycast.com
 -   https://octokit.github.io/rest.js/v19
