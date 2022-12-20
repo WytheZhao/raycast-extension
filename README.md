@@ -14,6 +14,7 @@ Aha! My extension...
 -   GitHub - Starred: List your GitHub starred repositories.
 -   GitHub - Followed: List your GitHub followed.
 -   DNSPod: Manage your DNSPod domains.
+-   Git commit types: List common git commit types.
 
 ## Dev docs record
 
