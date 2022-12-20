@@ -4,3 +4,8 @@ export interface Preferences {
     tencentSecretID: string
     tencentSecretKey: string
 }
+
+export interface NpmPkg {
+    name: string
+    version: string
+}

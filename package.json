@@ -34,6 +34,13 @@
             "subtitle": "Manage your DNSPod domains.",
             "description": "Manage your DNSPod domains.",
             "mode": "view"
+        },
+        {
+            "name": "git-commit-types",
+            "title": "Git commit types",
+            "subtitle": "List common git commit types.",
+            "description": "List common git commit types.",
+            "mode": "view"
         }
     ],
     "preferences": [
