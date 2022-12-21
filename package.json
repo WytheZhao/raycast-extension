@@ -41,6 +41,13 @@
             "subtitle": "List common git commit types.",
             "description": "List common git commit types.",
             "mode": "view"
+        },
+        {
+            "name": "copy-time",
+            "title": "Copy time",
+            "subtitle": "Copy system time.",
+            "description": "Copy system time.",
+            "mode": "view"
         }
     ],
     "preferences": [
@@ -77,6 +84,7 @@
         "@octokit/rest": "^19.0.5",
         "@raycast/api": "^1.44.0",
         "@raycast/utils": "^1.4.11",
+        "dayjs": "^1.11.7",
         "https-proxy-agent": "^5.0.1",
         "node-fetch": "^3.3.0",
         "tencentcloud-sdk-nodejs": "^4.0.496"

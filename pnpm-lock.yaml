@@ -8,6 +8,7 @@ specifiers:
   '@types/react': 18.0.9
   '@typescript-eslint/eslint-plugin': ^5.0.0
   '@typescript-eslint/parser': ^5.0.0
+  dayjs: ^1.11.7
   eslint: ^7.32.0
   eslint-config-prettier: ^8.3.0
   https-proxy-agent: ^5.0.1
@@ -20,6 +21,7 @@ dependencies:
   '@octokit/rest': 19.0.5
   '@raycast/api': 1.44.0_2cx2ipqrn5f7svdjipmu7pbevq
   '@raycast/utils': 1.4.11_@raycast+api@1.44.0
+  dayjs: 1.11.7
   https-proxy-agent: 5.0.1
   node-fetch: 3.3.0
   tencentcloud-sdk-nodejs: 4.0.496
@@ -602,6 +604,10 @@ packages:
   /data-uri-to-buffer/4.0.0:
     resolution: {integrity: sha512-Vr3mLBA8qWmcuschSLAOogKgQ/Jwxulv3RNE4FXnYWRGujzrRWQI4m12fQqRkwX06C0KanhLr4hK+GydchZsaA==}
     engines: {node: '>= 12'}
+    dev: false
+
+  /dayjs/1.11.7:
+    resolution: {integrity: sha512-+Yw9U6YO5TQohxLcIkrXBeY73WP3ejHWVvx8XCk3gxvQDCTEmS48ZrSZCKciI7Bhl/uCMyxYtE9UqRILmFphkQ==}
     dev: false
 
   /debug/4.3.4:

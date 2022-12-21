@@ -15,6 +15,7 @@ Aha! My extension...
 -   GitHub - Followed: List your GitHub followed.
 -   DNSPod: Manage your DNSPod domains.
 -   Git commit types: List common git commit types.
+-   Copy time: Copy system time.
 
 ## Dev docs record
 
